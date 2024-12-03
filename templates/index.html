@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/static/styles.css" />
+    <title>Quiz App</title>
+  </head>
+  <body>
+    <div class="quiz-container">
+      <h1>Quiz</h1>
+      <form id="quiz-form">
+        {% for question in questions %}
+        <div class="question-block">
+          <p><strong>{{ question.id }}. {{ question.question }}</strong></p>
+          {% for option in question.options %}
+          <label>
+            <input
+              type="radio"
+              name="q{{ question.id }}"
+              value="{{ option.label }}"
+            />
+            {{ option.label }}: {{ option.text }} </label
+          ><br />
+          {% endfor %}
+        </div>
+        {% endfor %}
+        <button type="button" id="submit-button">Submit</button>
+      </form>
+    </div>
+    <script src="/static/script.js"></script>
+  </body>
+</html>
