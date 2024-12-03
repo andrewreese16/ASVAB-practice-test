@@ -1,0 +1,197 @@
+[
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "answer": "C"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Roots", "Stem", "Leaves", "Flower"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "H2"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "options": ["6", "8", "12", "14"],
+    "answer": "A"
+  },
+  {
+    "question": "If a car travels 300 miles in 5 hours, what is its average speed?",
+    "options": ["50 mph", "60 mph", "70 mph", "80 mph"],
+    "answer": "B"
+  },
+  {
+    "question": "If you buy 3 shirts for $15 each and get a 20% discount, how much is the total cost?",
+    "options": ["$36", "$40", "$45", "$60"],
+    "answer": "C"
+  },
+  {
+    "question": "A recipe calls for 3/4 cup of sugar. If you want to make 3 times the recipe, how much sugar do you need?",
+    "options": ["2 1/4 cups", "1 1/2 cups", "3 cups", "2 cups"],
+    "answer": "A"
+  },
+  {
+    "question": "A train is traveling at 60 miles per hour. How far will it travel in 2.5 hours?",
+    "options": ["150 miles", "120 miles", "100 miles", "80 miles"],
+    "answer": "A"
+  },
+  {
+    "question": "Choose the correct synonym for 'benevolent'.",
+    "options": ["Generous", "Selfish", "Indifferent", "Mysterious"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the antonym of 'optimistic'?",
+    "options": ["Pessimistic", "Realistic", "Cautious", "Idealistic"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the correct definition of 'ephemeral'?",
+    "options": ["Short-lived", "Eternal", "Unusual", "Annoying"],
+    "answer": "A"
+  },
+  {
+    "question": "Choose the correct synonym for 'luminous'.",
+    "options": ["Dim", "Bright", "Dull", "Invisible"],
+    "answer": "B"
+  },
+  {
+    "question": "In the passage: 'The sun set in the west, casting long shadows,' what is the main idea?",
+    "options": [
+      "The sun moves from east to west.",
+      "It is evening time.",
+      "The shadows are long.",
+      "The sun is setting quickly."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In the following passage, what is the tone of the author? 'The wind was cold and biting, but the view was magnificent.'",
+    "options": ["Positive", "Negative", "Neutral", "Mixed"],
+    "answer": "D"
+  },
+  {
+    "question": "What does the phrase 'hit the nail on the head' mean?",
+    "options": ["To be accurate", "To cause harm", "To fail", "To make a mistake"],
+    "answer": "A"
+  },
+  {
+    "question": "Which statement is the main idea of the following paragraph? 'The weather today was a perfect mix of sunshine and clouds, making it a great day to be outside.'",
+    "options": [
+      "The weather was not good.",
+      "The weather was perfect for outdoor activities.",
+      "It was cloudy today.",
+      "It was too hot to go outside."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A gear system has a 4:1 ratio. For every four turns of the smaller gear, how many turns does the larger gear complete?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "A"
+  },
+  {
+    "question": "If a lever is balanced, which of the following statements is true?",
+    "options": [
+      "The lengths of the arms are equal.",
+      "The force applied on both sides is the same.",
+      "The load on both sides is the same.",
+      "All of the above."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following tools is used to tighten or loosen bolts?",
+    "options": ["Hammer", "Wrench", "Screwdriver", "Pliers"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary purpose of a pulley?",
+    "options": ["Increase speed", "Increase force", "Change direction of force", "Decrease friction"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following objects fits into the given space?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following shapes can be assembled to form a cube?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": "A"
+  },
+  {
+    "question": "Which shape can be folded to create a pyramid?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": "C"
+  },
+  {
+    "question": "Which piece would fit into the blank space?",
+    "options": ["Option A", "Option B", "Option C", "Option D"],
+    "answer": "D"
+  },
+  {
+    "question": "Which tool would be best for cutting a piece of wood to a specific length?",
+    "options": ["Hammer", "Chisel", "Handsaw", "Wrench"],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following tools is used to drive screws?",
+    "options": ["Hammer", "Wrench", "Screwdriver", "Pliers"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of an alternator in a car?",
+    "options": ["To power the engine", "To charge the battery", "To cool the engine", "To provide fuel"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the purpose of a spark plug in a car?",
+    "options": ["To ignite the fuel", "To control the speed", "To cool the engine", "To provide fuel"],
+    "answer": "A"
+  },
+  {
+    "question": "Simplify: 5x + 3x - 2 = 14.",
+    "options": ["x = 2", "x = 4", "x = 6", "x = 8"],
+    "answer": "B"
+  },
+  {
+    "question": "Solve for x: 3(x - 4) = 18",
+    "options": ["x = 4", "x = 8", "x = 6", "x = 12"],
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a triangle with a base of 6 and a height of 4?",
+    "options": ["24", "12", "20", "18"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 8 and width 3?",
+    "options": ["22", "24", "20", "26"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of x in the equation 2x + 5 = 17?",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "answer": "B"
+  },
+  {
+    "question": "What is the solution to the equation 4x - 7 = 21?",
+    "options": ["x = 7", "x = 8", "x = 6", "x = 5"],
+    "answer": "A"
+  },
+  {
+    "question": "If the angle of a triangle is 90 degrees, what type of triangle is it?",
+    "options": ["Equilateral", "Scalene", "Isosceles", "Right"],
+    "answer": "D"
+  },
+  {
+    "question": "Which is the largest prime number less than 30?",
+    "options": ["23", "29", "19", "17"],
+    "answer": "B"
+  }
+]
